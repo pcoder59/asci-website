@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+}
+
+.asci-heading {
+    color: blue;
+    font-size: 16rem;
+}
+
+.asci-cep {
+    color: aqua;
+    font-size: 8rem;
+}
+
+.countdown-text {
+    color: blueviolet;
+    font-size: 4rem;
+}
+
+.cnt {
+    display: inline;
+    padding: 1rem;
+    font-size: 2rem;
+    color: brown;
+    font-weight: bolder;
+}
+
+.bg-gradient-1 {
+    background: #7f7fd5;
+    background: -webkit-linear-gradient(to right, #7f7fd5, #86a8e7, #91eae4);
+    background: linear-gradient(to right, #7f7fd5, #86a8e7, #91eae4);
+}
+
+.num {
+    font-size: 3rem;
+}
+
+.btn-default {
+    color: burlywood;
+}
+
+.lightmode:focus {
+    color: burlywood;
+}
